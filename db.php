@@ -1,4 +1,3 @@
-
 <?php
 
     //CONNESSIONE AL DB MYSQL usando MYSQLI
@@ -24,4 +23,6 @@
         die("Connessione fallita: " . mysqli_connect());
     }
 
+
+    
 ?>
